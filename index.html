@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Use minimum-scale=1 to enable GPU rasterization -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0, maximum-scale=1, minimum-scale=1">
+    <meta name="Description" content="Interactive map of CivRealms">
+    <title>CivRealmsMap</title>
+    <meta property="og:type" content="object" />
+    <meta property="og:url" content="https://civrealmsmap.github.io/" />
+    <meta property="og:site_name" content="CivRealmsMap" />
+    <meta property="og:title" content="CivRealmsMap" />
+    <meta property="og:description" content="Interactive map of CivRealms" />
+    <meta property="og:image" content="https://i.imgur.com/1DqNfbo.png" />
+    <link rel="icon" type="image/png" href="https://i.imgur.com/1DqNfbo.png" />
+</head>
+
+<body>
+    <div id="app-root">
+        Loading...
+    </div>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.4.0/leaflet.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="js/bundle.js"></script>
+    <script type="text/javascript">
+        var config = {
+            defaultCollectionUrls: [
+                { source: "https://raw.githubusercontent.com/civrealmsmap/data/master/political.civmap.json", enabled_presentation: false },
+				{ source: "https://raw.githubusercontent.com/civrealmsmap/data/master/railmap.civmap.json", enabled_presentation: false },
+                { source: "https://raw.githubusercontent.com/civrealmsmap/data/master/settlements.civmap.json", enabled_presentation: true },
+                { source: "https://civrealmsmap.github.io/data/rails.civmap.json", enabled_presentation: true },
+            ],
+            initialState: {
+                mapConfig: {
+                    borderApothem: 18000,
+                    tilesRoot: 'https://raw.githubusercontent.com/civrealmsmap/tiles/master/',
+                    basemapPreview: '/z-2/3,-3.png',
+                    basemaps: {
+                        terrain: { name: 'Terrain', id: 'terrain', bgColor: '#000000', isDefault: true },
+                        biome: { name: 'Biome', id: 'biome', bgColor: '#000' },
+                        height: { name: 'Height', id: 'height', bgColor: '#888' },
+                        simple: { name: 'Land/Water', id: 'simple', bgColor: '#888' },
+                       // simple_dark: { name: 'Land/Water dark', id: 'simple_dark', bgColor: '#000' },
+                        night: { name: 'Night', id: 'night', bgColor: '#000' },
+                        light: { name: 'Light', id: 'light', bgColor: '#000' },					
+                    },
+                }
+            }
+        }
+        window.civMapApi = CivMap.start(config)
+    </script>
+</body>
+
+</html>
