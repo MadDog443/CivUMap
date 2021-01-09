@@ -26,7 +26,7 @@ Done! Thank you for contributing. You will always be remembered.
 
 Thank you for your help, contributions, and patience:
 - Gjum
-- Raven
+- Raven (can go fuck himself)
 - Myself
 - Ian_X12
 - SwiftFizz
