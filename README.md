@@ -2,7 +2,7 @@
 
 Interactive Map for the [CivUniverse](https://www.reddit.com/r/CivUniverse/) Minecraft server
 
-[Repo for Map Tiles](https://github.com/MadDog443/CUTiles) | [Repo for Json Data](https://maddog443.github.io/CUMap/)
+[Repo for Map Tiles](https://github.com/MadDog443/CUTiles) | [Repo for Json Data](https://github.com/MadDog443/CUData)
 
 Uses [CivMap](https://github.com/Gjum/CivMap).
 
