@@ -28,6 +28,7 @@ Thank you for your help, contributions, and patience:
 - Gjum
 - Raven
 - Myself
+- Ian_X12
 - SwiftFizz
 - TWINKIEminer
 - The Yello Fello
