@@ -31,4 +31,5 @@ Thank you for your help, contributions, and patience:
 - Ian_X12
 - SwiftFizz
 - TWINKIEminer
+- Vanax35
 - The Yello Fello
