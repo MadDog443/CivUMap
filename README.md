@@ -28,8 +28,11 @@ Thank you for your help, contributions, and patience:
 - Gjum
 - Raven (can go fuck himself)
 - Myself
+- Kayla
 - Ian_X12
 - SwiftFizz
 - TWINKIEminer
 - Vanax35
 - The Yello Fello
+- ArowShot
+- and a bunch of other people
