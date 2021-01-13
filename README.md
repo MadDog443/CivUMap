@@ -7,7 +7,7 @@ Interactive Map for the [CivUniverse](https://www.reddit.com/r/CivUniverse/new) 
 
 Uses [CivMap](https://github.com/Gjum/CivMap).
 
-## How to contribute VoxelMap Data
+## How to contribute VoxelMap Tile Data
 
 > Note: All tile data is using the [Liteloader](https://www.liteloader.com/explore/docs/user:install:forge) format.
 
