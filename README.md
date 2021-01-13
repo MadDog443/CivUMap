@@ -7,6 +7,16 @@ Interactive Map for the [CivUniverse](https://www.reddit.com/r/CivUniverse/new) 
 
 Uses [CivMap](https://github.com/Gjum/CivMap).
 
+## How to contribute City Location Data
+
+> Note: To add data to the spreadsheet, just comment in a empty slot.
+
+[CivUniverse Map Data Collection](https://docs.google.com/spreadsheets/d/1m6yVSf2kriLY1wOx5BC9iCrSrfmDdodDT1s_d1TS56Q/edit?usp=sharing)
+
+DM MadDog443#4618 to notify of any changes to the spreadsheet.
+
+DM TWINKIEminer#6969 to notify for any changes needed for political map updates.
+
 ## How to contribute VoxelMap Tile Data
 
 > Note: All tile data is using the [Liteloader](https://www.liteloader.com/explore/docs/user:install:forge) format.
@@ -22,16 +32,6 @@ Mac: go to `~/Library/Application Support/minecraft/mods/VoxelMods/voxelMap/cach
 Then create a .7z, .zip, or .rar archive containing the directory of the server (e.g. play.civuniverse.com), and submit it to my [Google Form](https://forms.gle/4TrfWZpsNWqDgGKA8). If it's a lot of data, you might need to upload it to a file hosting service of your choice (for example PixelDrain or MediaFire) and send it to me via discord @MadDog443#4618.
 
 [^ Edited and taken from the CivMap Repo Wiki](https://github.com/gjum/civmap/wiki/Contributing#how-to-contribute-voxelmap-data)
-
-## How to contribute City Location Data
-
-> Note: To add data to the spreadsheet, just comment in a empty slot.
-
-[CivUniverse Map Data Collection](https://docs.google.com/spreadsheets/d/1m6yVSf2kriLY1wOx5BC9iCrSrfmDdodDT1s_d1TS56Q/edit?usp=sharing)
-
-DM MadDog443#4618 to notify of any changes to the spreadsheet.
-
-DM TWINKIEminer#6969 to notify for any changes needed for political map updates.
 
 ## Contributors
 
