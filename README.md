@@ -10,7 +10,7 @@ Uses [CivMap](https://github.com/Gjum/CivMap).
  
 ## How to contribute City Location Data
 
-> Note: To add data to the spreadsheet, just comment in a empty slot.
+> Note: To add data to the spreadsheet, just right click on a empty slot and select comment.
 
 [CivUniverse Map Data Collection](https://docs.google.com/spreadsheets/d/1m6yVSf2kriLY1wOx5BC9iCrSrfmDdodDT1s_d1TS56Q/edit?usp=sharing)
 
