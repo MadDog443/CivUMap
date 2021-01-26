@@ -1,4 +1,4 @@
-CivUniverse Map
+[CivUniverse Map](https://www.civumap.tk)
 ==========
 
 Interactive Map for the [CivUniverse](https://www.reddit.com/r/CivUniverse/new) Minecraft server
