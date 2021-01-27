@@ -53,4 +53,5 @@ Thank you for your help, contributions, and patience:
 - The Yello Fello
 - ArowShot
 - Griffin Wolf
+- Addy
 - Raven (can go fuck himself)
