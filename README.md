@@ -29,8 +29,7 @@ Windows: go to `%appdata%\.minecraft\mods\VoxelMods\voxelMap\cache`
 
 Mac: go to `~/Library/Application Support/minecraft/mods/VoxelMods/voxelMap/cache`
 
-Then create a .7z, .zip, or .rar archive containing the directory of the server (e.g. play.civuniverse.com), and submit it to my [Google Form](https://forms.gle/4TrfWZpsNWqDgGKA8). 
- If it's a lot of data, you might need to upload it to a file hosting service of your choice (for example PixelDrain or MediaFire) and send it to me via discord @MadDog443#4618.
+Then create a .zip file containing the directory of the server (e.g. play.civuniverse.com), and submit it to my [Google Form](https://forms.gle/4TrfWZpsNWqDgGKA8). If it's a lot of data, you might need to upload it to a file hosting service of your choice (for example PixelDrain or MediaFire) and send it to me via discord @MadDog443#4618.
 
 If that's too hard to understand, here is a [video](https://youtu.be/ji_iYyjpzXQ) that will walk you through the process.
  
