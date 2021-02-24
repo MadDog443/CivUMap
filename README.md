@@ -5,7 +5,7 @@ Interactive Map for the [CivUniverse](https://www.reddit.com/r/CivUniverse/new) 
 
 [Repo for Map Tiles](https://github.com/MadDog443/CUTiles) | [Repo for Settlements & Maps](https://github.com/MadDog443/CUData)
 
-Uses [CivMap](https://github.com/Gjum/CivMap) | Our Tools [CUWorkspace](https://github.com/MadDog443/CUWorkspace)
+[Uses: CivMap](https://github.com/Gjum/CivMap) | [Our Tools: CUWorkspace](https://github.com/MadDog443/CUWorkspace)
  
  
 ## How to contribute City Location Data
